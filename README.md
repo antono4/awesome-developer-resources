@@ -2,6 +2,17 @@
 
 > A curated collection of the best resources, tools, and links for developers to boost productivity and learn new skills.
 
+<!-- Badges -->
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/antono4/awesome-developer-resources?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/antono4/awesome-developer-resources?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/antono4/awesome-developer-resources?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/antono4/awesome-developer-resources?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/antono4/awesome-developer-resources/main?style=for-the-badge)
+
+**The ultimate curated collection of developer resources for learning, building, and growing.**
+
 [![Stars](https://img.shields.io/github/stars/antono4/awesome-developer-resources?style=social)](https://github.com/antono4/awesome-developer-resources/stargazers)
 [![Forks](https://img.shields.io/github/forks/antono4/awesome-developer-resources?style=social)](https://github.com/antono4/awesome-developer-resources/network/members)
 [![Contributors](https://img.shields.io/github/contributors/antono4/awesome-developer-resources)](https://github.com/antono4/awesome-developer-resources/graphs/contributors)
