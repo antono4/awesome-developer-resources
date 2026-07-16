@@ -1,5 +1,8 @@
 # 🚀 Awesome Developer Resources
 
+> **Created by Antono**
+
+
 > A curated collection of the best resources, tools, and links for developers to boost productivity and learn new skills.
 
 <!-- Badges -->
